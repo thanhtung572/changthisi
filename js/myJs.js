@@ -10,7 +10,7 @@ const textConfig = {
   text9: "Vì tui thấy Thanh Tùng rất chi là dễ thương - đạp zai - tốt bụng nà  :v :v :v  ",
   text10: "Tuii biết mà ^^ Ngại quée đi",
   text11:
-    "Mãi bên nhau bạn nhóaaaa ",
+    "Một ngày tốt lành bạn nhóaaaa ",
   text12: "Okeee lunn ",
 };
 
